@@ -1,0 +1,29 @@
+@echo off
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\3vars.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\5vars.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\9sym_d.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\carry.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\con1f1.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\con2f2.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\exam1_d.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\exam3_d.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\max46_d.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\newill_d.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\newtag_d.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\rd53f1.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\rd53f2.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\rd53f3.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\rd73f1.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\rd73f2.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\rd73f3.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\rd84f1.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\rd84f2.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\rd84f3.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\rd84f4.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\sao2f1.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\sao2f2.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\sao2f3.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\sao2f4.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\sym10_d.pla
+echo java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\t481_d.pla
+java -cp build\classes MemristorsSOPDF.MemristorsSOPDF benchmarks\xor5_d.pla

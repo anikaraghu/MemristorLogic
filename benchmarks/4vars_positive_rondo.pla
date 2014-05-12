@@ -1,0 +1,13 @@
+# RONDO v.1.1 output for command line: "-q3 -v0 4vars_positive.pla"
+# Minimization performed Tue May 21 23:00:56 2013
+# Quality: "implicit reduction + exact CC (potentially slow, exact)"
+# Initial statistics: Cubes = 7  Literals = 28
+# Final   statistics: Cubes = 2  Literals = 4
+# Input file reading and variable reordering time = 0.00 sec
+# SOP minimization time = 0.01 sec
+.i 4
+.o 1
+.p 2
+11--  1
+--11  1
+.e
